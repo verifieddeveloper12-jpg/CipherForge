@@ -30,7 +30,7 @@ Embedded metadata in encrypted output
 
 Installation
 
-git clone https://github.com/yourusername/CipherForge.git
+git clone https://github.com/verifieddeveloper12/CipherForge.git
 
 cd CipherForge
 
@@ -97,5 +97,6 @@ Suitable for personal encryption needs
 For high-security applications, consider industry-standard algorithms
 
 Original Work Statement
+
 
 This project was designed and implemented from scratch. The encryption algorithm, architecture, and implementation are 100% original work. No code was copied, forked, or derived from existing projects. All logic and features were independently developed.
